@@ -1,0 +1,6 @@
+take 3.
+
+so apparently you can't edit files directly from the GitHub desktop program like the demo shows using another platform. Notepad it is!
+
+First time out on GitHub. Just starting learning to program journey, everyone says it's important to get on GitHub and learn to use it, so here goes =)
+
